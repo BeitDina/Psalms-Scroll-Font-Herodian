@@ -63,9 +63,9 @@
    inkscape:window-height="674"
    id="namedview68"
    showgrid="false"
-   inkscape:zoom="1.0766727"
-   inkscape:cx="185.01984"
-   inkscape:cy="210.60917"
+   inkscape:zoom="0.26916818"
+   inkscape:cx="-313.24218"
+   inkscape:cy="376.71187"
    inkscape:window-x="69"
    inkscape:window-y="69"
    inkscape:window-maximized="0"
@@ -324,12 +324,7 @@
    style="fill:none;stroke:#a9ccdb;stroke-miterlimit:10" />
 	</g>
     
-    <glyph
-   glyph-name="afii57674"
-   unicode="ך"
-   horiz-adv-x="528"
-   d="M287 317q-10 67 -11 103q-50 -22 -93 -22q-145 0 -145 257q26 31 58 31q28 0 65 -22q-5 -29 -5 -48q0 -42 17.5 -67t44.5 -25q26 0 51 25t43 76q54 55 95 55q24 0 51 -23q-24 -47 -34 -71t-21 -67t-11 -87q0 -72 27.5 -189.5t27.5 -206.5q-26 -212 -153 -243 q45 80 45 169q0 34 -32 239q-2 12 -11 55t-9 61z"
-   id="glyph47" />
+    
 <path
    sodipodi:nodetypes="cssccsccccccccccscscccscscsscccccc"
    inkscape:connector-curvature="0"
