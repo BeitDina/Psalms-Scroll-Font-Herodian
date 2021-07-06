@@ -1,15 +1,15 @@
 # Psalms-Scroll-Font-Herodian
-
-# Font Version 0.1 Alpha | based on
-The-Psalms-Scroll-4Q83–4QPsA, The-Psalms-Scroll-4Q84–4QPsB, etc.
-
-# This font contain glyphs for realizing the ancient aphabet of Dead Sea Scrolls - Psalms Scrolls found in Cave 4 at Qumran.
-# License: This font is based on https://github.com/BeitDina/The-Psalms-Scroll-4Q83-Font/ 
-and based on https://github.com/BeitDina/The-Psalms-Scroll-4Q84-Font/ 
-that are Sil Open Source Font License and this version is released under GNU General Public License v2
+   
+# Font Version 0.1 Alpha | The-Psalms-Scroll at 11QPsA-11QPsB 
+  
+# This font contain glyphs for realizing the ancient aphabet of Dead Sea Scrolls - Psalms Scrolls found in Cave 11 at Qumran
+that containt the Yod Hey Wav Hey in Paleo-Hebrew Alphabet drawed in this font package in the Phoenician font subset.
+   
+# License: This font is based on https://github.com/BeitDina/The-Great-Psalms-Scroll-Font/ 
+that is Sil Open Source Font License and this version is released under GNU General Public License v2
 http://www.gnu.org/licenses/gpl.html | http://opensource.org/licenses/gpl-license.php
 The fonts are encoded acording to unicode font subset maps chart at http://www.unicode.org/charts/index.html
-
+   
 1. [To Install the Font on Computer]     
 2. [Install Font on Browser]   [Install Font on Computer]( #install-font-on-computer ) 
 
