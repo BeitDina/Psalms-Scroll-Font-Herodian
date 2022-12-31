@@ -1,4 +1,4 @@
-# Psalms-Scroll-Font-Herodian
+# Psalms-Scroll-Font-Herodian by Bodin Florin Ciprian
    
 # Font Version 0.1 Alpha | The-Psalms-Scroll at 11QPsA-11QPsB 
   
